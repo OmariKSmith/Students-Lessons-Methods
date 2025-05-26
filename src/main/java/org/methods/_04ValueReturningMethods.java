@@ -8,6 +8,7 @@ public class _04ValueReturningMethods {
 //-                 Value methods return the results of the operations in the method body.
 //-                 Value methods can have 0 or many parameters.
 //-                 The method call of a value method is equal to the returned result.
+//-                 Value returning methods are also known as accesors
 
 
 

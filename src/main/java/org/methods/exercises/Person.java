@@ -7,5 +7,4 @@ class Person {
     int age = 28;
     char gender = 'M';
     double weight = 180;
-
 }

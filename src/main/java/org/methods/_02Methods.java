@@ -47,6 +47,44 @@ public class _02Methods {
 
 
 
+//-                         Identify the return type in this method
+    void setConePrice(double price){
+
+    }
+
+
+//-                         Identify the name in this method
+    int getViews(){
+        return 20;
+    }
+
+
+//-                         How parameters are in this method?
+    void setPassword(String password){
+
+    }
+
+
+    //-                         Identify the return type in this method
+    String getFirstName(){
+        return "Sally";
+    }
+
+
+    //-                         Identify the name in this method
+    int getBalance(){
+        return 20;
+    }
+
+
+    //-                         How parameters are in this method?
+    void login(String userName, String password){
+
+    }
+
+
+
+
 
 /*                              There are two types of methods in Java:
                                     'void' and 'value returning'
