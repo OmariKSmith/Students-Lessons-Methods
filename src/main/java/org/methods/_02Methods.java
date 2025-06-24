@@ -1,6 +1,7 @@
 package org.methods;
 
 public class _02Methods {
+//-                                               METHODS
 
 //-                         Program behaviours are represented by methods.
 

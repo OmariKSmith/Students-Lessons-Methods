@@ -7,7 +7,7 @@ public class _03VoidMethods {
 
 //-                 Void methods just run code. They do not return values.
 //-                 Like value returning methods, void methods can have 0 or many parameters
-//-                 Void methods are also know as mutators.
+//-                 Void methods are also used as mutators in the POJO context.
 
 
 

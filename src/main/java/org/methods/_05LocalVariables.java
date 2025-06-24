@@ -56,10 +56,6 @@ public class _05LocalVariables {
 
 
 
-
-
-
-
 //`    Identify the instance and local variables. Explain their scope.
 
 
@@ -88,11 +84,6 @@ public class _05LocalVariables {
 
 
 
-
-
-
-
-
     //    Identify the instance and local variables. Explain their scope.
     int woodPlanks =24;
     int sticks = 4;
@@ -102,6 +93,5 @@ public class _05LocalVariables {
         signs = woodPlanks / sticks;
         return signs;
     }
-
 
 }
